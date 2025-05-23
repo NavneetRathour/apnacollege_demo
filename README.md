@@ -1,3 +1,4 @@
 # apnacollege_demo
-This is my second Repo.
-Other Navneet Rathour
+This is my second Repository
+<br>
+Author- Navneet Rathour

@@ -1,4 +1,4 @@
 # apnacollege_demo
 This is my second Repository
 <br>
-Author- Navneet Rathour
+Author- Navneet Rathour(kanpur)

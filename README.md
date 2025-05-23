@@ -1,3 +1,3 @@
 # apnacollege_demo
-this is my second repo
-other Navneet rathour
+This is my second Repo.
+Other Navneet Rathour
